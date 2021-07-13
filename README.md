@@ -3,6 +3,13 @@
 Just open "post.html" and "get.html" pages in a browser, enter a password and press the button.
 
 Then using the Developer Tools of the browser look at the URL and HTTP header of the resulting page after you pressed the button.
+## Results
+
+![GET method results](https://github.com/m3y54m/http-post-vs-get/blob/main/images/get.png?raw=true )
+
+![POST method results](https://github.com/m3y54m/http-post-vs-get/blob/main/images/post.png?raw=true )
+
+## Further Reading
 
 For more information about HTTP POST and GET methods refer to the following links:
 
