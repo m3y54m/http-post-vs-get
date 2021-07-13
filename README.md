@@ -1,6 +1,6 @@
 # A Comparison Between HTTP GET and POST Methods
 
-Just open post and get html pages in a browser, enter a password and press the button.
+Just open "post.html" and "get.html" pages in a browser, enter a password and press the button.
 
 Then using the Developer Tools of the browser look at the URL and HTTP header of the resulting page after you pressed the button.
 
